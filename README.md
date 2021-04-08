@@ -1,4 +1,4 @@
-#İlk Web Sayfamızı Oluşturmak - Kodluyoruz
+# İlk Web Sayfamızı Oluşturmak - Kodluyoruz
 ## Installation
 
 Öncelikle projeyi clonelayın.
@@ -8,9 +8,7 @@ git clone https://github.com/hibadem/kodluyoruzilkrepo.git
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
+Projeyi cloneladıktan sonra Visual  açınız.
 
 ```linux
 cd kodluyoruzilkrepo
