@@ -8,7 +8,7 @@ git clone https://github.com/hibadem/kodluyoruzilkrepo.git
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual  açınız.
+Projeyi cloneladıktan sonra açınız.
 
 ```linux
 cd kodluyoruzilkrepo
