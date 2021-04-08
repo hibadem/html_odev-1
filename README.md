@@ -3,7 +3,7 @@
 
 Öncelikle projeyi clonelayın.
 ```bash
-git clone https://github.com/hibadem/kodluyoruzilkrepo.git
+git clone https://github.com/hibadem/html_odev-1.git
 ```
 
 ## Usage
@@ -11,7 +11,7 @@ git clone https://github.com/hibadem/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra açınız.
 
 ```linux
-cd kodluyoruzilkrepo
+cd html_odev-1
 code .
 ```
 
